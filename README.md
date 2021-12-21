@@ -1,6 +1,6 @@
 # NotEnoughQOL
 ### <!> Chattriggers mod <!>
-Read bottom of this page for step by step how to download
+Read bottom of this page for step by step on how to download
 ## What it does/has:
  - Discord rich presence
 ### QOL features:
