@@ -1,6 +1,7 @@
 # NotEnoughQOL
-### What it does:
-This mod has alot of QOL features.
+## What it does/has:
+ - Discord rich presence
+### QOL features:
  - Summons Ghost arm (hit through summons)
  - Ghost hand (hit through players)
  - Player ESP IGN
