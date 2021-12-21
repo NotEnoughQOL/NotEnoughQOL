@@ -158,7 +158,7 @@ class Settings {
 
     @SwitchProperty({
         name: "Rich Presence",
-        description: "Enable Discord Rich Presence for NotEnoughRacism",
+        description: "Enable Discord Rich Presence for NotEnoughQOL",
         category: "General",
         subcategory: "Settings"
     })
@@ -166,7 +166,7 @@ class Settings {
 
     // @SwitchProperty({
     //     name: "Low Power Mode",
-    //     description: "Enable low power mode for NotEnoughRacism.\n&8- Use this setting if you are playing on a laptop and want to save battery.",
+    //     description: "Enable low power mode for NotEnoughQOL.\n&8- Use this setting if you are playing on a laptop and want to save battery.",
     //     category: "General",
     //     subcategory: "Settings"
     // })

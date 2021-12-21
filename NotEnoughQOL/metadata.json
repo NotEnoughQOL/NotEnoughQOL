@@ -1,7 +1,7 @@
 {
     "$schema": "../CTAutocomplete/schema.json",
     "name": "Not Enough QOL ",
-    "creator": "UwU & OwO",
+    "creator": "OwO & UwU",
     "version": "2.0.0",
     "entry": "init.js",
     "description": "Skyblock QOL Mod",
