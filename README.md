@@ -1,17 +1,22 @@
 # NotEnoughQOL
 ### What it does:
 This mod has alot of QOL features.
+ - Summons Ghost arm (hit through summons)
+ - Ghost hand (hit through players)
+ - Player ESP IGN
  - Auto fishing
  - Macros
+ - Weapon Macros
  - Auto ready up (Dungeons)
  - Auto Fishing
  - Slayer features
  - Voidgloom ESP
  - Dungeons
+ - Coord Ghost blocks F7 boss room
+ - Ghost blocks
  - Dungeon map (with score calculator)
  - Miniboss and starred mobs ESP
-
-- Etc.
+ - Etc.
 ### Is this bannable?
 Short answer: cheater don't get ban👍
 
