@@ -23,6 +23,6 @@ Short answer: cheater don't get ban👍
 2. Extract the folder
 3. Open the folder until you get to the one named exactly "NotEnoughQOL"
 4. Move the "NotEnoughQOL" folder into .minecraft/config/ChatTriggers/modules
-5. If your folder is not named EXACTLY "NotEnoughQOL" then it WILL NOT WORK. PLEASE STOP DMING ME ABOUT THIS. READ.
+5. If your folder is not named EXACTLY "NotEnoughQOL" then it WILL NOT WORK.
 6. Run '/ct load' in-game
 7. Done!
