@@ -1,9 +1,9 @@
 {
     "$schema": "../CTAutocomplete/schema.json",
     "name": "Not Enough QOL ",
-    "creator": "eznick & iTqxic",
-    "version": "1.0.0",
+    "creator": "UwU & OwO",
+    "version": "2.0.0",
     "entry": "init.js",
-    "description": "Skyblock Racists QOL Mod",
+    "description": "Skyblock QOL Mod",
     "requires": ["Vigilance", "RenderLib"]
 }
