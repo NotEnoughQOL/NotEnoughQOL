@@ -1,0 +1,2783 @@
+[
+  {
+    "hash": [
+      951222268,
+      1009020541,
+      1054111695
+    ],
+    "name": "Spawn",
+    "type": "spawn",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 0
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      -673829615,
+      1086064528
+    ],
+    "name": "Outside Half of Spawn",
+    "type": "delete",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 0
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      584809043,
+      2025779298,
+      806835911,
+      2015831758
+    ],
+    "name": "Mithril Cave",
+    "type": "mobs",
+    "secrets": 10,
+    "crypts": 11,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 3,
+      "chest": 7
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      822121651,
+      1718154440,
+      1855485106,
+      1029739727
+    ],
+    "name": "Doors",
+    "type": "mobs",
+    "secrets": 5,
+    "crypts": 7,
+    "revive_stones": 1,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 4
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1223066057
+    ],
+    "name": "Locked Away",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1454858155
+    ],
+    "name": "Beams",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 2,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      -359868326
+    ],
+    "name": "Hall",
+    "type": "mobs",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 0
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2131830275,
+      1958596238
+    ],
+    "name": "Banners",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1882325226
+    ],
+    "name": "Andesite",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 0
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1582828717
+    ],
+    "name": "Painting",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 0
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2120203984
+    ],
+    "name": "Multicolored",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2085125628
+    ],
+    "name": "Black Flag",
+    "type": "mobs",
+    "secrets": 3,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1342448638
+    ],
+    "name": "Overgrown Chains",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1860415107
+    ],
+    "name": "Chains",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1437701909,
+      1496673165
+    ],
+    "name": "Golden Oasis",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 1,
+      "bat": 0,
+      "item": 0,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      567863996,
+      1931854594,
+      1551174310,
+      -355518412
+    ],
+    "name": "Redstone Warrior",
+    "type": "mobs",
+    "secrets": 3,
+    "crypts": 4,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1869840747
+    ],
+    "name": "Silvers Sword",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1201788944,
+      1137928967
+    ],
+    "name": "Pedestal",
+    "type": "mobs",
+    "secrets": 5,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": true,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 3
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      563476113
+    ],
+    "name": "Temple",
+    "type": "mobs",
+    "secrets": 3,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 1,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1863632855
+    ],
+    "name": "Big Red Flag",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 1,
+    "revive_stones": 1,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 2,
+      "chest": 0
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1615735316
+    ],
+    "name": "Mural",
+    "type": "mobs",
+    "crypts": 0,
+    "secrets": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      473795817
+    ],
+    "name": "Perch",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      842697237
+    ],
+    "name": "End",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1157266425,
+      1202288258
+    ],
+    "name": "Cage",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1250582061
+    ],
+    "name": "Sloth",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 0
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1450518191
+    ],
+    "name": "Steps",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 0
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      205616610
+    ],
+    "name": "Granite",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 0
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1811396994,
+      691049938,
+      1069176704,
+      1383848082
+    ],
+    "name": "Crypt",
+    "type": "mobs",
+    "secrets": 5,
+    "crypts": 2,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 4
+    },
+    "soul": true,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      -772935739
+    ],
+    "name": "Dueces",
+    "type": "mobs",
+    "secrets": 3,
+    "crypts": 6,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 1,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 1
+  },
+  {
+    "hash": [
+      1645623993
+    ],
+    "name": "Red Green",
+    "type": "mobs",
+    "secrets": 3,
+    "crypts": 2,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 2,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1103053194
+    ],
+    "name": "Long Hall",
+    "type": "mobs",
+    "secrets": 3,
+    "crypts": 3,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 3
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      993129589
+    ],
+    "name": "Mirror",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": true,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1674718592
+    ],
+    "name": "Quad Lava",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1224744440
+    ],
+    "name": "Waterfall",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 5,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 0
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1252351651
+    ],
+    "name": "Basement",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 0
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1296235481
+    ],
+    "name": "Dip",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 3,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1510359924
+    ],
+    "name": "Water",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      924454835
+    ],
+    "name": "Dome",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 2,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      625007066
+    ],
+    "name": "Scaffolding",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2129774654
+    ],
+    "name": "Small Stairs",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1379808640
+    ],
+    "name": "Tomioka",
+    "type": "mobs",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 0
+    },
+    "soul": true,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      443445893
+    ],
+    "name": "Mushroom",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 0,
+    "revive_stones": "100k per",
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      480311573
+    ],
+    "name": "Slabs",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 2,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1629102683
+    ],
+    "name": "Duncan",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 0
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1777357626
+    ],
+    "name": "Logs",
+    "type": "mobs",
+    "secrets": 4,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 4
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1042052728
+    ],
+    "name": "Cages",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1965257266
+    ],
+    "name": "Admin",
+    "type": "mobs",
+    "secrets": 0,
+    "crypts": 34,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 0
+    },
+    "soul": true,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1408708664,
+      960611016
+    ],
+    "name": "Skull",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1645858632,
+      1945579655,
+      1795220961,
+      1648178034,
+      2054682857
+    ],
+    "name": "Balcony",
+    "type": "mobs",
+    "secrets": 4,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 1,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2052990220
+    ],
+    "name": "Knight",
+    "type": "mobs",
+    "secrets": 3,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1503915891
+    ],
+    "name": "Sarcophagus",
+    "type": "mobs",
+    "secrets": 3,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      112189579
+    ],
+    "name": "Drop",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 6,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1919268432
+    ],
+    "name": "Raccoon",
+    "type": "mobs",
+    "secrets": 4,
+    "crypts": 2,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 4
+    },
+    "soul": true,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1871748388
+    ],
+    "name": "Double Diamond",
+    "type": "mobs",
+    "secrets": 3,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      -511834853
+    ],
+    "name": "Blue Skulls",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 4,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 0
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1697650880
+    ],
+    "name": "Leaves",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": true,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      773299133,
+      1878193517,
+      1013718246
+    ],
+    "name": "Withermancers",
+    "type": "mobs",
+    "secrets": 4,
+    "crypts": 6,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 3
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1713707674
+    ],
+    "name": "Redstone Key",
+    "type": "mobs",
+    "secrets": 3,
+    "crypts": 4,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 1
+  },
+  {
+    "hash": [
+      1073556625
+    ],
+    "name": "Prison Cell",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      -308824931
+    ],
+    "name": "Cell",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 2,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 0
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1640621709
+    ],
+    "name": "Arrow Trap",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1175473984,
+      -539336343
+    ],
+    "name": "Bridges",
+    "type": "mobs",
+    "secrets": 6,
+    "crypts": 6,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 2,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 1,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      988605799
+    ],
+    "name": "Cobble Wall Pillar",
+    "type": "mobs",
+    "secrets": 2,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      -334786298
+    ],
+    "name": "Spikes",
+    "type": "mobs",
+    "secrets": 3,
+    "crypts": 2,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2085454061,
+      430877978
+    ],
+    "name": "Gold",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 3,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 0
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1989745290,
+      1564680001,
+      2105728759
+    ],
+    "name": "Chambers",
+    "type": "mobs",
+    "secrets": 5,
+    "crypts": 6,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 4
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      864621548,
+      1435317430,
+      1424949974
+    ],
+    "name": "Lava Ravine",
+    "type": "mobs",
+    "secrets": 6,
+    "crypts": 4,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 1,
+      "chest": 4
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1427049808,
+      -159080662,
+      2043638131,
+      764752407
+    ],
+    "name": "Wizard",
+    "type": "mobs",
+    "secrets": 4,
+    "crypts": 8,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 1,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1892001873
+    ],
+    "name": "Overgrown",
+    "type": "mobs",
+    "secrets": 3,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      320292165
+    ],
+    "name": "Jumping Skulls",
+    "type": "mobs",
+    "secrets": 1,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1690819227
+    ],
+    "name": "Lots of Floors",
+    "type": "mobs",
+    "secrets": 3,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 3
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2138074364,
+      1201517699
+    ],
+    "name": "Purple Flags",
+    "type": "mobs",
+    "secrets": 5,
+    "crypts": 7,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 3
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2116296357,
+      1413973053
+    ],
+    "name": "Archway",
+    "type": "mobs",
+    "secrets": 3,
+    "crypts": 4,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 2,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      989352640,
+      986208989
+    ],
+    "name": "Mage",
+    "type": "mobs",
+    "secrets": 4,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2063230017,
+      1236908061
+    ],
+    "name": "Grass Ruin",
+    "type": "mobs",
+    "secrets": 3,
+    "crypts": 4,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2016240023,
+      1875224447
+    ],
+    "name": "Grand Library",
+    "type": "mobs",
+    "secrets": 4,
+    "crypts": 2,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      827096790,
+      742012261,
+      2076365215
+    ],
+    "name": "Pit",
+    "type": "mobs",
+    "secrets": 5,
+    "crypts": 4,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 1,
+      "chest": 3
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1859607601,
+      991910459,
+      787649861,
+      1896066083,
+      2092481162,
+      1766983364
+    ],
+    "name": "Atlas",
+    "type": "mobs",
+    "secrets": 6,
+    "crypts": 5,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 1,
+      "chest": 3
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1955386144,
+      433356341,
+      1624788957,
+      1029690227
+    ],
+    "name": "Layers",
+    "type": "mobs",
+    "secrets": 8,
+    "crypts": 3,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 4,
+      "chest": 4
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1616813985,
+      1953896962,
+      2106109374,
+      1964723213
+    ],
+    "name": "Cavern",
+    "type": "mobs",
+    "secrets": 8,
+    "crypts": 3,
+    "revive_stones": 1,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 2,
+      "item": 1,
+      "chest": 5
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1842034207,
+      1408590765
+    ],
+    "name": "Pressure Plate",
+    "type": "mobs",
+    "secrets": 6,
+    "crypts": 6,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 2,
+      "chest": 4
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1732114484,
+      1526612003,
+      1467520383,
+      1217130012
+    ],
+    "name": "Super Tall",
+    "type": "miniboss",
+    "secrets": 6,
+    "crypts": 6,
+    "revive_stones": 2,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 2,
+      "item": 1,
+      "chest": 3
+    },
+    "soul": true,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      -1273957341,
+      973004233,
+      2031021912
+    ],
+    "name": "Gravel",
+    "type": "miniboss",
+    "secrets": 6,
+    "crypts": 2,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 2,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 2,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1415278065,
+      1864888344,
+      1757476182,
+      643481447
+    ],
+    "name": "Cathedral",
+    "type": "miniboss",
+    "secrets": 8,
+    "crypts": 5,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 2,
+      "item": 3,
+      "chest": 3
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      326721402,
+      1458907487,
+      503766244,
+      1940748322,
+      241475743,
+      809079482,
+      1874006646,
+      1458345455,
+      -598739424,
+      1099308090,
+      1699907695,
+      -479632432
+    ],
+    "name": "Red Blue",
+    "type": "miniboss",
+    "secrets": 4,
+    "crypts": 1,
+    "revive_stones": 1,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1881507737,
+      1391735301,
+      1595841413
+    ],
+    "name": "Spider",
+    "type": "miniboss",
+    "secrets": 9,
+    "crypts": 3,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 2,
+      "chest": 6
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      631524434,
+      965654244,
+      518964362
+    ],
+    "name": "Deathmite",
+    "type": "miniboss",
+    "secrets": 6,
+    "crypts": 4,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 1,
+      "chest": 4
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      121102777,
+      819914353,
+      982743615,
+      2082609190
+    ],
+    "name": "Museum",
+    "type": "miniboss",
+    "secrets": 5,
+    "crypts": 4,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 4
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1485106606,
+      2125226142,
+      308321341
+    ],
+    "name": "Market",
+    "type": "miniboss",
+    "secrets": 5,
+    "crypts": 4,
+    "revive_stones": 1,
+    "journals": 0,
+    "spiders": true,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 3
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2038156610,
+      433555993,
+      685036346,
+      497869714,
+      1596112119
+    ],
+    "name": "Melon",
+    "type": "miniboss",
+    "secrets": 7,
+    "crypts": 4,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": true,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 6
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1761354660,
+      1864801591,
+      1933331259,
+      512839657
+    ],
+    "name": "Mossy",
+    "type": "miniboss",
+    "secrets": 4,
+    "crypts": 2,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 3
+    },
+    "soul": true,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      745063383,
+      1866667733,
+      1755865850,
+      538703693
+    ],
+    "name": "Flags",
+    "type": "miniboss",
+    "secrets": 7,
+    "crypts": 8,
+    "revive_stones": 1,
+    "journals": 0,
+    "spiders": true,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 1,
+      "chest": 5
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1050206712,
+      1287820978,
+      1846534526
+    ],
+    "name": "Well",
+    "type": "miniboss",
+    "secrets": 7,
+    "crypts": 5,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": true,
+    "secret_details": {
+      "wither": 2,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 2,
+      "chest": 3
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1958542891,
+      1220067019,
+      1804455110,
+      1967859533,
+      1734695645,
+      1020004079
+    ],
+    "name": "Hallway",
+    "type": "miniboss",
+    "secrets": 3,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 3
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1053459215,
+      599961343,
+      1450687556
+    ],
+    "name": "Diagonal",
+    "type": "miniboss",
+    "secrets": 4,
+    "crypts": 3,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 3
+    },
+    "soul": true,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1850589878,
+      1513814179,
+      1100875186,
+      1894239176
+    ],
+    "name": "Catwalk",
+    "type": "miniboss",
+    "secrets": 6,
+    "crypts": 5,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 4
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1896398942,
+      1610196485,
+      2122178396
+    ],
+    "name": "Dino Dig Site",
+    "type": "miniboss",
+    "secrets": 4,
+    "crypts": 4,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 1,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      642323997,
+      1820511227,
+      2096940483,
+      1467373901,
+      1811245032
+    ],
+    "name": "Stairs",
+    "type": "miniboss",
+    "secrets": 4,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 3
+    },
+    "soul": true,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2128584643,
+      2136002233,
+      95194323,
+      1721599267
+    ],
+    "name": "Quartz Knight",
+    "type": "miniboss",
+    "secrets": 7,
+    "crypts": 9,
+    "revive_stones": 1,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 2,
+      "chest": 4
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1348316874,
+      1904988572,
+      1024139825,
+      1151830633
+    ],
+    "name": "Buttons",
+    "type": "miniboss",
+    "secrets": 5,
+    "crypts": 21,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 5
+    },
+    "soul": false,
+    "trapped_chests": 1
+  },
+  {
+    "hash": [
+      487139121,
+      194752301,
+      1180249687,
+      91841855
+    ],
+    "name": "Rail Track",
+    "type": "miniboss",
+    "secrets": 9,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 3,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 1,
+      "chest": 4
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      986536869
+    ],
+    "name": "Sanctuary",
+    "type": "rare",
+    "secrets": 1,
+    "crypts": 10,
+    "revive_stones": 0,
+    "journals": 999,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      -19991628
+    ],
+    "name": "Pillars",
+    "type": "rare",
+    "secrets": 1,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1793088963
+    ],
+    "name": "Sand Dragon",
+    "type": "rare",
+    "secrets": 1,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1178137569
+    ],
+    "name": "Tombstone",
+    "type": "rare",
+    "secrets": 2,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 1,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1155870161
+    ],
+    "name": "Stone Window",
+    "type": "rare",
+    "secrets": 2,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 2,
+      "item": 0,
+      "chest": 0
+    },
+    "soul": true,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1327523368
+    ],
+    "name": "Lava Pool",
+    "type": "rare",
+    "secrets": 3,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 1,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1807834726,
+      1545826599
+    ],
+    "name": "Lava Skull",
+    "type": "rare",
+    "secrets": 3,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 2,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 1,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1714525079
+    ],
+    "name": "Mini Rail Track",
+    "type": "rare",
+    "secrets": 3,
+    "crypts": 3,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 2,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1599950007
+    ],
+    "name": "Carpets",
+    "type": "rare",
+    "secrets": 1,
+    "crypts": 4,
+    "revive_stones": 0,
+    "journals": 0,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      458441280
+    ],
+    "name": "Trinity",
+    "type": "rare",
+    "secrets": 4,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 2,
+      "item": 1,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1264145788
+    ],
+    "name": "Hanging Vines",
+    "type": "rare",
+    "secrets": 1,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 1,
+    "spiders": false,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1101744036,
+      1393643248,
+      2043638131,
+      1567603605
+    ],
+    "name": "Miniboss",
+    "type": "gold",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1643517732
+    ],
+    "name": "King Midas",
+    "type": "gold",
+    "secrets": 0,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2117254276
+    ],
+    "name": "Shadow Assassin",
+    "type": "gold",
+    "secrets": 0,
+    "crypts": 2,
+    "revive_stones": 0,
+    "journals": 0,
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1478437693
+    ],
+    "name": "Three Weirdos",
+    "type": "puzzle",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1940091296,
+      -60753176,
+      856343052,
+      2029864412
+    ],
+    "name": "Water Board",
+    "type": "puzzle",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2021168858,
+      1846945384,
+      1773553370,
+      1555510778,
+      1155636316
+    ],
+    "name": "Ice Fill",
+    "type": "puzzle",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      -84142108,
+      653846531
+    ],
+    "name": "Creeper Beams",
+    "type": "puzzle",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1228270798
+    ],
+    "name": "Teleport Maze",
+    "type": "puzzle",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2084727108,
+      1974915581
+    ],
+    "name": "Higher or Lower",
+    "type": "puzzle",
+    "secrets": 1,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1778340544
+    ],
+    "name": "Quiz",
+    "type": "puzzle",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1695481360,
+      1763263946,
+      1909705632,
+      272975982
+    ],
+    "name": "Tic Tac Toe",
+    "type": "puzzle",
+    "secrets": 1,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 0,
+      "item": 0,
+      "chest": 1
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1300319463,
+      2019427815,
+      2130745832,
+      2110447584,
+      510287433,
+      1316840199,
+      1571365296,
+      1948787655,
+      1419080263,
+      2092153513,
+      1126254161,
+      2147266568,
+      1250149023
+    ],
+    "name": "Bomb Defuse",
+    "type": "puzzle",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1984415928
+    ],
+    "name": "Boulder",
+    "type": "puzzle",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2049530032
+    ],
+    "name": "Ice Path",
+    "type": "puzzle",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      734492014,
+      1727030350,
+      1699829714,
+      1880487205,
+      1519796721,
+      1519796721,
+      2029523046,
+      1770626446,
+      1503095185,
+      1975011245,
+      -384486127,
+      1754649937,
+      1633178822,
+      1254172206
+    ],
+    "name": "New Trap",
+    "type": "trap",
+    "secrets": 3,
+    "crypts": 1,
+    "revive_stones": 0,
+    "journals": 0,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 2
+    },
+    "soul": false,
+    "trapped_chests": 1
+  },
+  {
+    "hash": [
+      1143883761
+    ],
+    "name": "Old Trap",
+    "type": "trap",
+    "secrets": 4,
+    "crypts": 2,
+    "revive_stones": 0,
+    "journals": 0,
+    "secret_details": {
+      "wither": 0,
+      "redstone_key": 0,
+      "bat": 1,
+      "item": 0,
+      "chest": 3
+    },
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      2019554852,
+      785546896,
+      1820914594,
+      1229400154,
+      1720874852,
+      1330295026,
+      1918860650,
+      1881415538
+    ],
+    "name": "Blood",
+    "type": "blood",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 0,
+    "journals": 0,
+    "soul": false,
+    "trapped_chests": 0
+  },
+  {
+    "hash": [
+      1946743234
+    ],
+    "name": "Fairy",
+    "type": "fairy",
+    "secrets": 0,
+    "crypts": 0,
+    "revive_stones": 4,
+    "journals": 0,
+    "soul": false,
+    "trapped_chests": 0
+  }
+]

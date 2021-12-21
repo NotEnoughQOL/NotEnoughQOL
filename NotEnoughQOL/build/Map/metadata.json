@@ -1,0 +1,10 @@
+{
+  "name": "DungeonMap+",
+  "author": "h",
+  "entry": "index.js",
+  "requires": [
+    "Vigilance"
+  ],
+  "version": "0.0.1",
+  "description": "A dungeon map that displays a little bit more info than usual"
+}

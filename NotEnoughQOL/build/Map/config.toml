@@ -1,0 +1,31 @@
+
+[score]
+	10_bonus_score = false
+	assume_spirit_pet = false
+	score_on_blood_room = true
+	assume_mimic = false
+	exact_score = true
+
+[room_tooltip]
+	cellar_spiders = true
+	secret_details = true
+	crypt_counter = true
+	fairy_souls = true
+	dungeon_journals = true
+
+[map_appearance]
+	playerhead_outline = true
+	map_background = true
+	show_mimic = true
+	exact_score = true
+
+[map]
+	tab_info = false
+	score_on_blood_room = true
+	map_y_position = 212
+	map_x_position = 6
+	map_enabled = true
+	hide_in_boss = false
+	playerheads = true
+	map_size = 189
+
