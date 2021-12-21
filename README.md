@@ -13,7 +13,7 @@ This mod has alot of QOL features.
 
 - Etc.
 ### Is this bannable?
-Short answer: Very many no
+Short answer: cheater don't get ban👍
 
 ### Command:
  /neq - Opens the menu
